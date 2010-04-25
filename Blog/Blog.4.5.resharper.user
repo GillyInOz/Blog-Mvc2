@@ -10,7 +10,11 @@
     <NAntPath value="" />
   </NAntValidationSettings>
   <RecentFiles>
-    <RecentFiles />
+    <RecentFiles>
+      <File id="BB8C41BC-F5CA-4354-A805-1BAF67FF170F/d:Controllers/f:HomeController.cs" caret="13" fromTop="0" />
+      <File id="BB8C41BC-F5CA-4354-A805-1BAF67FF170F/f:Web.config" caret="0" fromTop="0" />
+      <File id="DA558A54-CA91-440F-A0BA-A5DEA5733B68/f:Web.config" caret="0" fromTop="0" />
+    </RecentFiles>
     <RecentEdits />
   </RecentFiles>
   <UnitTestRunner>
