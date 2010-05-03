@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<project name="Simple" default="build-solution">
+    <property name="debug" value="true"/>
+
+	<target name="build-solution">
+        <exec program="${framework::get-framework-directory('net-3.5')}/msbuild.exe">
+            <arg value="/property:Configuration=Debug" />
+            <arg value="../Blog-Source/Blog.Source.csproj" />
+        </exec>
+	</target>
+	
+    <target name="build" description="compiles the source code">
+        
+        <csc target="library" output="../Blog-Source/bin/Blog.Source.dll" debug="${debug}">
+            <sources>
+                <include name="../Blog-Source/Controllers/*.cs" />
+                <include name="../Blog-Source/Models/*.cs" />
+                <include name="../Blog-Source/Views/*.cs" />
+				<include name="../Blog-Source/*.cs" />
+            </sources>
+			
+			<references>
+				<include name="System.Core"/>
+				<include name="System.Web.Extensions" />
+				<include name="System.Web.Mvc.dll" />
+			
+			</references>
+        </csc>
+    </target>
+</project>

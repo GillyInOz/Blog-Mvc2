@@ -12,10 +12,15 @@
   <RecentFiles>
     <RecentFiles>
       <File id="BB8C41BC-F5CA-4354-A805-1BAF67FF170F/d:Controllers/f:HomeController.cs" caret="13" fromTop="0" />
-      <File id="BB8C41BC-F5CA-4354-A805-1BAF67FF170F/f:Web.config" caret="0" fromTop="0" />
       <File id="DA558A54-CA91-440F-A0BA-A5DEA5733B68/f:Web.config" caret="0" fromTop="0" />
+      <File id="552BA376-8EE7-4F28-8623-E3F3C5F2F882/f:HomeControllerTests.cs" caret="227" fromTop="10" />
+      <File id="BB8C41BC-F5CA-4354-A805-1BAF67FF170F/f:Web.config" caret="4781" fromTop="34" />
     </RecentFiles>
-    <RecentEdits />
+    <RecentEdits>
+      <File id="DA558A54-CA91-440F-A0BA-A5DEA5733B68/f:Web.config" caret="0" fromTop="0" />
+      <File id="552BA376-8EE7-4F28-8623-E3F3C5F2F882/f:HomeControllerTests.cs" caret="0" fromTop="0" />
+      <File id="552BA376-8EE7-4F28-8623-E3F3C5F2F882/f:HomeControllerTests.cs" caret="225" fromTop="10" />
+    </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
     <Providers />
@@ -23,4 +28,10 @@
   <UnitTestRunnerMSTest>
     <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
   </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="fact" priority="0" />
+      <Item value="xe" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

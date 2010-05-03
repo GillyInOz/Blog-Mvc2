@@ -1,0 +1,6 @@
+C:\Dev Projects\Blog-Mvc2\Blog\Blog-Test\bin\Debug\Blog-Test.dll
+C:\Dev Projects\Blog-Mvc2\Blog\Blog-Test\bin\Debug\Blog-Test.pdb
+C:\Dev Projects\Blog-Mvc2\Blog\Blog-Test\bin\Debug\xunit.dll
+C:\Dev Projects\Blog-Mvc2\Blog\Blog-Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev Projects\Blog-Mvc2\Blog\Blog-Test\obj\Debug\Blog-Test.dll
+C:\Dev Projects\Blog-Mvc2\Blog\Blog-Test\obj\Debug\Blog-Test.pdb

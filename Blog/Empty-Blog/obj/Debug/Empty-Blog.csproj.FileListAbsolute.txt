@@ -1,0 +1,5 @@
+C:\Dev Projects\Blog-Mvc2\Blog\Empty-Blog\bin\Empty-Blog.dll
+C:\Dev Projects\Blog-Mvc2\Blog\Empty-Blog\bin\Empty-Blog.pdb
+C:\Dev Projects\Blog-Mvc2\Blog\Empty-Blog\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev Projects\Blog-Mvc2\Blog\Empty-Blog\obj\Debug\Empty-Blog.dll
+C:\Dev Projects\Blog-Mvc2\Blog\Empty-Blog\obj\Debug\Empty-Blog.pdb
